@@ -1,28 +1,19 @@
-# Project 4 - *TriviaTune 2.0*
+# *TriviaTune 2.0*
 
-Submitted by: **Sahil Kumawat**
+**Sahil Kumawat**
 
 **TriviaTune 2.0** is an app that uses a popular Trivia api to fetch the most recent trivia questions for the user to play!
 
-Time spent: **8** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] User can view and answer at least 5 trivia questions.
 - [x] App retrieves question data from the Open Trivia Database API.
 - [x] Fetch a different set of questions if the user indicates they would like to reset the game.
 - [x] Users can see score after submitting all questions.
 - [x] True or False questions only have two options.
-
-The following **additional** features are implemented:
-
 - [x] Created a StringExtension file that decodes HTML entities into their corresponding characters
 
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 (https://www.loom.com/share/5e5e2546327843149a136879c41d8efd?sid=65e6b8c8-975b-45eb-9ad9-8199d99ae138) .
 
